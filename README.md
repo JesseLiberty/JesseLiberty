@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JesseLiberty
-- 👀 I’m interested in C#, git and .NET MAUI 
+- 👀 I’m interested in C#, git, building APIs and .NET MAUI 
 
 
 - 📫 How to reach me: https://jesseliberty.com/find-me
@@ -8,4 +8,4 @@
 JesseLiberty/JesseLiberty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Senior SW Engineer at CNH Industries. Xamarin MVP, Microsoft MVP, Xamarin Certified Mobile Developer, Author.  Full bio at https://jesseliberty.com/bio
+Senior SW Engineer (API team) at CNH Industries. Xamarin MVP, Microsoft MVP, Xamarin Certified Mobile Developer, Author.  Full bio at https://jesseliberty.com/bio

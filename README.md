@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JesseLiberty
-- 👀 I’m interested in C#, git, building APIs and .NET MAUI 
+- 👀 I’m interested in C#, git, and building APIs 
 
 
 - 📫 How to reach me: https://jesseliberty.com/find-me

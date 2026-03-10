@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JesseLiberty
-- 👀 I’m interested in C#, git, and building APIs 
+- 👀 I’m interested in C#, git, building APIs, and AI
 
 
 - 📫 How to reach me: https://jesseliberty.bio
@@ -8,4 +8,4 @@
 JesseLiberty/JesseLiberty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Senior SW Engineer (API team) at CNH Industries. Microsoft MVP, Author.  Full bio at https://jesseliberty.bio.  
+Senior SW Engineer.  Microsoft MVP (13 years), Author (two dozen books, 29 videos).  Full bio at https://jesseliberty.bio.  

@@ -8,4 +8,4 @@
 JesseLiberty/JesseLiberty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Senior SW Engineer.  Microsoft MVP (13 years), Author (two dozen books, 29 videos).  Full bio at https://jesseliberty.bio.  
+Senior AI Engineer.  Microsoft MVP (21 years), Author (two dozen books, 29 videos).  Full bio at https://jesseliberty.bio.  

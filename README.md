@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JesseLiberty
-- 👀 I’m interested in C#, git, building APIs, and AI
+- 👀 I’m interested in AI, Microsoft Agent Framework, and C#.
 
 
 - 📫 How to reach me: https://jesseliberty.bio
